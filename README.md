@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Grant Duncan, a sophomore computer engineering student at the University of Illinois at Urbana Champaign
+I am Grant Duncan, a Junior Computer Engineering student at the University of Illinois at Urbana Champaign
 
 he/him
 
